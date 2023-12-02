@@ -1,9 +1,10 @@
 # JAVA-II-2020
 
+## About
 GitHub repository for the 2020 Java-II lecture at the University of Applied Sciences Augsburg.
 
 
-## Voraussetzungen:
+## Prerequisites
 * JS-Tools eingebunden
 
    ```sh
